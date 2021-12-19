@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="want_to_del">Do you want to delete</string>
+
+
+    <string-array name="section">
+        <item>Section A</item>
+        <item>Section B</item>
+        <item>Section C</item>
+    </string-array>
+</resources>
